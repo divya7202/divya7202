@@ -1,4 +1,4 @@
-## Hi i am Divya Gupta 👋
+## Hola, I'm Divya Gupta! 👋
 🔭 I’m currently student in jiwaji university,Gwalior
 - 🌱 I’m currently learning
 - 👯 I’m looking to collaborate in [Github].
