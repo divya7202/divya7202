@@ -1,6 +1,6 @@
 ## Hola, I'm Divya Gupta! 👋
 🔭 I’m currently student in jiwaji university,Gwalior
-- 🌱 I’m currently learning
+- 🌱 I’m currently learning Java And Frontend stuff.
 - 👯 I’m looking to collaborate in [Github].
 - 💬 Ask me about Java or any tech related stuff.
 - 😄 Pronouns: She/Her
